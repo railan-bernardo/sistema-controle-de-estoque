@@ -1,0 +1,31 @@
+[05-Jul-2020 15:10:36 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'railandb'@'localhost' (using password: YES) in /home/cacursos/estoque.cacursos.com.br/includes/database.php on line 18
+[05-Jul-2020 15:10:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'railandb'@'localhost' (using password: YES) in /home/cacursos/estoque.cacursos.com.br/includes/database.php on line 18
+[05-Jul-2020 15:36:45 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function join_product_table(), 0 passed in /home/cacursos/estoque.cacursos.com.br/product_default.php on line 6 and exactly 1 expected in /home/cacursos/estoque.cacursos.com.br/includes/sql.php:211
+Stack trace:
+#0 /home/cacursos/estoque.cacursos.com.br/product_default.php(6): join_product_table()
+#1 {main}
+  thrown in /home/cacursos/estoque.cacursos.com.br/includes/sql.php on line 211
+[05-Jul-2020 21:16:58 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[06-Jul-2020 12:51:29 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[06-Jul-2020 12:51:29 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[06-Jul-2020 12:51:30 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[06-Jul-2020 12:51:32 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[06-Jul-2020 12:51:32 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[06-Jul-2020 12:52:02 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[06-Jul-2020 12:52:02 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[06-Jul-2020 12:52:04 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[06-Jul-2020 21:00:51 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[06-Jul-2020 21:00:51 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[06-Jul-2020 21:00:52 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[06-Jul-2020 21:00:52 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[06-Jul-2020 21:00:52 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[06-Jul-2020 21:00:52 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[06-Jul-2020 21:00:56 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[06-Jul-2020 21:08:55 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[07-Jul-2020 12:44:47 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[07-Jul-2020 12:44:48 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[07-Jul-2020 12:48:03 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[07-Jul-2020 12:48:03 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[07-Jul-2020 12:53:01 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[07-Jul-2020 12:53:01 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
+[07-Jul-2020 12:53:02 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 0 given in /home/cacursos/estoque.cacursos.com.br/ajax.php on line 20
